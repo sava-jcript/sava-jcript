@@ -1,3 +1,4 @@
+## Diego de Oliveira Freitas
 - 🔭 I’m currently working on opening my own company
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 💬 Ask me about your ideas, we can bring solutions
