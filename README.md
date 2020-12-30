@@ -11,9 +11,8 @@ _Currently learning ReactJS_
 ## (We don't have a name yet)
 As said before, i'm currently founding my own business  
 We don't have a name yet, but we're accepting projects of any kind  
-Our team has, currently, 4 member  
+Our team has, currently, 4 members  
 From Back-End To UX
 
 ## Contact us on:
-📧 Email:  
-diegofreitas.oliveira01@gmail.com
+📧 diegofreitas.oliveira01@gmail.com
