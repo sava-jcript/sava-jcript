@@ -15,8 +15,8 @@ We don't have a name yet, but we're accepting projects of any kind
 Our team has, currently, 4 members  
 From Back-End To UX
 > Como dito antes, atualmente estou fundando minha própria empresa  
-> Nós não temos um nome ainda, mas estamos aceitando projetos de qualquer tipo
-> Nosso time tem, atualmente, 4 membros
+> Nós não temos um nome ainda, mas estamos aceitando projetos de qualquer tipo  
+> Nosso time tem, atualmente, 4 membros  
 > Nosso conhecimento vai desde o Back-End até UX
 
 ## Contact us on:
