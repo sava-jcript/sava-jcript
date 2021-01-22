@@ -1,6 +1,6 @@
 # Hello everyone 🖖🏼 I'm Nomad
-Full Stack developer creating digital solutions 
-> Desenvolvedor Full Stack na criação de soluções digitais
+Front End developer creating digital solutions 
+> Desenvolvedor Front End na criação de soluções digitais
 
 ## Stats to make this description pretty good 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=died-ego&show_icons=true&theme=synthwave&hide_border=true&custom_title=Nomad's%20stats)
