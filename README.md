@@ -13,9 +13,9 @@ _Currently learning React & Next.js_
 <a href="https://www.linkedin.com/in/diego-oliveira-freitas-251956196/">
 	<img src="https://image.flaticon.com/icons/png/32/174/174857.png" alt="LinkedIn">
 </a>  
-<a href="https://www.instagram.com/sava_jcript/">
+<a href="https://www.instagram.com/SypeTcript/">
 	<img src="https://image.flaticon.com/icons/png/32/174/174855.png" alt="LinkedIn">
 </a>
-<a href="https://www.facebook.com/SavaJcript">
+<a href="https://www.facebook.com/SypeTcript">
 	<img src="https://image.flaticon.com/icons/png/32/174/174848.png" alt="LinkedIn">
 </a>
