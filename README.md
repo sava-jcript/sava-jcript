@@ -3,10 +3,10 @@ Front-End developer creating digital solutions
 > Desenvolvedor Front-End na criação de soluções digitais
 
 ## Stats to make this description pretty good 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sava-jcript&show_icons=true&theme=synthwave&hide_border=true&custom_title=Nomad's%20stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SypeTcript&show_icons=true&theme=synthwave&hide_border=true&custom_title=Nomad's%20stats)
 
 ## Learned languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sava-jcript&layout=compact&theme=synthwave&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SypeTcript&layout=compact&theme=synthwave&hide_border=true)  
 _Currently learning React & Next.js_
 
 ## Contact me on:
